@@ -1,0 +1,43 @@
+#Contact .container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+#Contact .row-2 .contact-box{
+    display: flex;
+    flex-direction: row;
+    font-size: 60px;
+    justify-content: space-between;
+}
+
+#Contact .row-2 {
+    margin: 0 40vw;
+    display: flex;
+    justify-content: center;
+}
+
+.row-2 .contact-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.row-2 .image {
+    display: flex;
+    justify-content: space-between;
+}
+
+.icon {
+    color: black;
+    font-size: 60px;
+}
+
+.fa-instagram {
+    margin-right: 20px;
+}
+
+.fa-envelope {
+    margin-left: 20px;
+}
+
